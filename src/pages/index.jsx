@@ -1,8 +1,8 @@
 import Head from "next/head";
-import { Header } from "../componets/Header";
-import { Main } from "../componets/Main";
-import { Footer } from "../componets/Footer";
-import { Headline } from "../componets/Headline";
+import { Header } from "src/componets/Header";
+import { Main } from "src/componets/Main";
+import { Footer } from "src/componets/Footer";
+import { Headline } from "src/componets/Headline";
 
 import { Inter } from "@next/font/google";
 import styles from "@/styles/Home.module.css";
