@@ -40,7 +40,7 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <h1>Top Page</h1>
+          <h1>About Page</h1>
         </div>
 
         <div className={styles.grid}>
